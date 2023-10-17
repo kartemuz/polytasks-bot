@@ -1,0 +1,16 @@
+{
+  "links": [
+    {
+      "name": "hum",
+      "url": "https://dl-hum.spbstu.ru/calendar/export_execute.php?userid=12345&authtoken=1234567890&preset_what=all&preset_time=custom"
+    },
+    {
+      "name": "spbstu",
+      "url": "https://dl.spbstu.ru/calendar/export_execute.php?userid=12345&authtoken=1234576890&preset_what=all&preset_time=custom"
+    },
+    {
+      "name": "lms",
+      "url": "https://lms.spbstu.ru/calendar/export_execute.php?userid=12345&authtoken=1234567890&preset_what=all&preset_time=custom"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+venv
+logs
+*.log
+*__pycache__
+*.idea
+.env
+.vscode
+ics_urls.json
+ics_files
+*ics
+test.py
